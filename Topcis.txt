@@ -1,0 +1,9 @@
+#Topics to Revise.
+
+
+#JDBC
+#Exception Handler
+#JUnit
+#Multithreading
+#Log4J Implementations
+#Assignment
